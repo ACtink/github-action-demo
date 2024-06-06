@@ -1,5 +1,5 @@
 console.log("Hello World!");
 
-export function add(a, b) {
+module.exports = function add(a, b) {
   return a + b;
 }

@@ -1,5 +1,4 @@
-import {add} from './index.js'
-
+const add = require("./index.js")
 
 
 test("add function test", () => {
