@@ -1,1 +1,5 @@
-console.log("Hello World!")
+console.log("Hello World!");
+
+export function add(a, b) {
+  return a + b;
+}
