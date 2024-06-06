@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
- 
-
+    "test": "jest"
   },
   "keywords": [],
   "author": "anuj chopra <writetoanujchopra@gmail.com>",
